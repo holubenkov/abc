@@ -23,5 +23,38 @@
       }
    ],
 
-   "products": []
+   "products": [
+    {
+        "id": 4,
+        "name": "laptop",
+        "description": "Lenovo ThinkBook 14 G2 ITL (20VD00CRRA) Mineral Grey",
+        "price": 3453,
+        "autor_id": 1,
+        "photo_url": "https://content2.rozetka.com.ua/goods/images/big/201542515.jpg"
+    },
+    {
+        "id": 5,
+        "name": "phone",
+        "description": "iPhone 14 Pro Max Deep Purple 1TB",
+        "price": 765,
+        "autor_id": 2,
+        "photo_url": "https://istudio.ua/media/cache/resolve/app_product_page_small_slider_image/24/8a/0da13d38d393feb699c512dcde74.png"
+    },
+    {
+        "id": 6,
+        "name": "headphone",
+        "description": "Meze Elite",
+        "price": 9588,
+        "autor_id": 3,
+        "photo_url": "https://portativ.ua/media/cache/images/1/image/750x700/602f0fa2c1f0d1ba5e241f914e856ff9/catalog/product/m/afee3e9a0ddc505ce8f92250fd0335eb.png"
+    },
+    {
+        "id": 7,
+        "name": "keyboard",
+        "description": "armilo VCS87 Awake Cherry Mx Red USB/Wireless",
+        "price": 53,
+        "autor_id": 1,
+        "photo_url": "https://content2.rozetka.com.ua/goods/images/big/311248047.jpg"
+    }
+   ]
 }
