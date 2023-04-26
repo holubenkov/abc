@@ -1,5 +1,18 @@
 {
     "user":[
-        
+        {
+            "id":2,
+            "name": "Nika",
+            "surname": "Holubenko",
+            "photo_url": "https://a-z-animals.com/media/2022/10/shutterstock_1105090019.jpg",
+            "balance": 1500
+        },
+        {
+            "id":3,
+            "name": "Viktor",
+            "surname": "Savchenko",
+            "photo_url": "https://cdn-prod.medicalnewstoday.com/content/images/articles/322/322868/golden-retriever-puppy.jpg",
+            "balance": 4000 
+        }
     ]
 }
