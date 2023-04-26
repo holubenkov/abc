@@ -25,6 +25,31 @@
 
    "products": [
     {
+        "id": 1,
+        "name": "LED display",
+        "description": "Can display 2-lines X 16-characters. Operate with 5V DC.",
+        "price": 92,
+        "author_id": 1,
+        "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/led.jpeg"
+     },
+
+     {
+        "id": 2,
+        "name": "Arduino UNO",
+        "description": "Brand new and high quality.",
+        "price": 180,
+        "author_id": 3,
+        "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/arduino.jpeg"
+     },
+     {
+        "id": 3,
+        "name": "ESP8266 5V",
+        "description": "This wireless relay is based on the AI-Thinker ESP-01S WIFI module.",
+        "price": 300,
+        "author_id": 2,
+        "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/wifi.jpeg"
+     },
+     {
         "id": 4,
         "name": "laptop",
         "description": "Lenovo ThinkBook 14 G2 ITL (20VD00CRRA) Mineral Grey",
