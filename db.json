@@ -1,25 +1,27 @@
 {
-    "user":[
-        {
-            "id": 1,
-            "name": "Sasha",
-            "surname": "Serbyn",
-            "photo_url": "https://static.wikia.nocookie.net/anime-characters-fight/images/7/77/Pikachu.png/revision/latest/scale-to-width-down/700?cb=20181021155144&path-prefix=ru",
-            "balance": 1500
-         },
-         {
-            "id":2,
-            "name": "Nika",
-            "surname": "Holubenko",
-            "photo_url": "https://a-z-animals.com/media/2022/10/shutterstock_1105090019.jpg",
-            "balance": 1500
-        },
-        {
-            "id":3,
-            "name": "Viktor",
-            "surname": "Savchenko",
-            "photo_url": "https://cdn-prod.medicalnewstoday.com/content/images/articles/322/322868/golden-retriever-puppy.jpg",
-            "balance": 4000 
-        }
-    ]
+   "user": [
+      {
+         "id": 1,
+         "name": "Sasha",
+         "surname": "Serbyn",
+         "photo_url": "https://static.wikia.nocookie.net/anime-characters-fight/images/7/77/Pikachu.png/revision/latest/scale-to-width-down/700?cb=20181021155144&path-prefix=ru",
+         "balance": 1500
+      },
+      {
+         "id": 2,
+         "name": "Nika",
+         "surname": "Holubenko",
+         "photo_url": "https://a-z-animals.com/media/2022/10/shutterstock_1105090019.jpg",
+         "balance": 1500
+      },
+      {
+         "id": 3,
+         "name": "Viktor",
+         "surname": "Savchenko",
+         "photo_url": "https://cdn-prod.medicalnewstoday.com/content/images/articles/322/322868/golden-retriever-puppy.jpg",
+         "balance": 4000
+      }
+   ],
+
+   "products": []
 }
